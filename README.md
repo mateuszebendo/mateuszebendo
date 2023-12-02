@@ -1,6 +1,6 @@
 <p align="center">
   
-  <img src="https://wallpapercave.com/wp/wp9060013.jpg" style="width: 400px;">
+  <img src="https://wallpapercave.com/wp/wp9060013.jpg" style="width: 700px;">
  
 </p>
 
