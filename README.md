@@ -1,6 +1,6 @@
 <p align="center">
   
-  <img src="[https://i.imgur.com/MBvlDKf.png](https://images3.alphacoders.com/133/thumbbig-1330505.webp)" style="width: 800px;">
+  <img src="https://i.imgur.com/MBvlDKf.png](https://images3.alphacoders.com/133/thumbbig-1330505.webp" style="width: 800px;">
  
 </p>
 
@@ -15,7 +15,7 @@
 
     
 </div>
-    <h3>Check out my(own) favorite repos</h3>
+    <h3>Repositórios favoritos:</h3>
   <a href="https://github.com/mateuszebendo/segundo-semestre">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=mateuszebendo&repo=segundo-semestre&hide_border=true&theme=radical" height="125em" />
   </a>
