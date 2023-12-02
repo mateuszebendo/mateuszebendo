@@ -18,6 +18,7 @@
     <h3>Repositórios favoritos:</h3>
   <a href="https://github.com/mateuszebendo/segundo-semestre">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=mateuszebendo&repo=segundo-semestre&hide_border=true&theme=radical" height="125em" />
+    <p>Esse tal de mateus eh bom; </p>
   </a>
 </p>
 
