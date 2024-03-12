@@ -8,7 +8,7 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mateuszebendo&show_icons=true&include_all_commits&count_private=true&custom_title=Github%20Activity&theme=radical" height="155em" />
 
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuszebendo&card_width=250&custom_title=Most%20used%20languages&langs_count=8&layout=compact&theme=radical" height="155em" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuszebendo&card_width=250&custom_title=Most%20used%20languages&langs_count=8&layout=compact&theme=radical&exclude_repo=segundo-semestre" height="155em" />
   <div = align="center">
 
   <div align="center">
