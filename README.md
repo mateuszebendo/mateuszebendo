@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/mateus zebendo](https://www.linkedin.com/in/mateus-zebendo-0508032a4/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateus zebendo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mateus-zebendo-0508032a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateus zebendo" height="30" width="40" /></a>
 <a href="https://instagram.com/mt_zeze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mt_zeze" height="30" width="40" /></a>
 <a href="https://discord.gg/mateuszeze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mateuszeze" height="30" width="40" /></a>
 </p>
