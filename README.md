@@ -13,6 +13,5 @@
 
 
 <h3 align="left">Linguagens mais usadas: </h3>
-<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuszebendo&layout=compact)](https://github.com/mateuszebendo/github-readme-stats)
-</div>
+
