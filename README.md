@@ -30,12 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/bar-stats.svg" alt="Estatísticas do GitHub" width="100%"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mateuszebendo&show_icons=true&locale=pt-br&bg_color=c0c0c0&title_color=000080&text_color=000000&icon_color=000080&border_color=808080&border_radius=0" alt="estatísticas"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuszebendo&layout=compact&locale=pt-br&bg_color=c0c0c0&title_color=000080&text_color=000000&border_color=808080&border_radius=0" alt="linguagens mais usadas"/>
+  <img src="./assets/stats.svg" alt="Estatísticas do GitHub: repositórios, estrelas, seguidores, commits e linguagens mais usadas" width="100%"/>
 </p>
 
 <p align="center">
